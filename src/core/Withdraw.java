@@ -3,5 +3,7 @@ package core;
 public class Withdraw {
     //Withdraw
     //balance
-    //etc
+    //Money in slot
+
+    //update later
 }
